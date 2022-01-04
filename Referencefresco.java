@@ -59,7 +59,7 @@ public class MyClass {
            
         }
         newstr+=sub;
-        System.out.println(newstr);
+        //System.out.println(newstr);
         String Str1="";
         for(int i=0;i<newstr.length()-2;i++){
             int num=0;
